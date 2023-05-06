@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExoPlayer-Demo</string>
+    <string name="video_name_will_be_displayed_here">Video Name Will be Displayed Here</string>
+    <string name="text_of_the_video_will_be_displayed_here">Text of the Video will be displayed here</string>
+    <string name="_0_03_4_43">0:03 / 4:43</string>
+    <string name="_0_03_4_44">0:03 / 4:43</string>
+</resources>
